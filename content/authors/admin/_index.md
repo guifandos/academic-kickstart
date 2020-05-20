@@ -15,7 +15,9 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
 - name: Universität Potsdam (UP)
-  url: ""
+  url: "https://www.uni-potsdam.de/en/ibb/"
+- name: Humboldt-Universität zu Berlin (HU)
+  url: "https://www.geographie.hu-berlin.de/de/Members/fandos_guzman_guillermo"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I combine empirical data, fieldwork, and quantitative methods to improve our understanding of how natural and anthropogenic changes influence biodiversity dynamics.
