@@ -23,7 +23,7 @@ organizations:
 bio: I combine empirical data, fieldwork, and quantitative methods to improve our understanding of how natural and anthropogenic changes influence biodiversity dynamics.
 
 interests:
-- Conservation Biology
+- Conservation biology
 - Biogeography	
 - Biodiversity modelling
 - Citizen-Science
@@ -74,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-I combine empirical data, fieldwork, and quantitative methods to improve our understanding of how natural and anthropogenic changes influence biodiversity dynamics.
+I combine empirical data, fieldwork, and quantitative methods to improve our understanding on how climate and land use change influence species distributions and ecological patterns. My research spans population ecology, biogeography and conservation science, with a special interest on niche modelling techniques as main tool. Much of my work has foused on the ecology and conservation of migratory birds, which are ideal model organisms to study range dynamic patterns and processes.
 
-I am currently a postdoctoral researcher at the The biodiversity modelling lab (Universität Potsdam). Currently, I am working on understanding how life history and environment shape dispersal in birds.
+I always get a kick out of crunching numbers, and have an active interest in the use of GIS and statistical methods to address pressing wildlife conservation problems. In particular, I try to better understand the ecological processes that drive the distribution and abundance of animal populations.
+
+Finally, my research brought me to the Biodiversity Modelling Lab in Potsdam, Germany, where I am working on understanding how life history and environment shape dispersal in birds.
