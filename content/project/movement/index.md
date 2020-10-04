@@ -1,6 +1,6 @@
 ---
 title: ANIMAL MOVEMENTS AND DISPERSAL 
-summary: linking the process of animal movement to general ecology and evolution as well as how movements impact animals and their ecosystems.  
+summary: Linking the process of animal movement to general ecology and evolution as well as how movements impact animals and their ecosystems.  
 tags:
 - Birds
 - Mammals
@@ -11,6 +11,7 @@ date: "2020-05-24T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: White Storks movement GIF
   focal_point: Smart
 ---
+The importance of movement in ecology
